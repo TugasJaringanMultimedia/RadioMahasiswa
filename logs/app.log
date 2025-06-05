@@ -1,0 +1,10 @@
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+Flask-SocketIO==5.3.6
+PyMySQL==1.1.0
+pyaudio==0.2.11
+python-socketio==5.8.0
+eventlet==0.33.3
+requests==2.31.0
+Werkzeug==2.3.7
+python-dotenv==1.0.0
